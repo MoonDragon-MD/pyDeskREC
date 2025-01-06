@@ -479,7 +479,7 @@ def open_settings():
 def open_info():
     layout = [
         [sg.Text("pyDeskREC")],
-        [sg.Text("Author: MoonDragon-MD")],
+        [sg.Text("Author: MoonDragon")],
         [sg.Text("Website: "), sg.InputText("https://github.com/MoonDragon-MD/pyDeskREC", readonly=True)],
         [sg.Text("Versione: 0.9.3")],
         [sg.Button('OK')]
