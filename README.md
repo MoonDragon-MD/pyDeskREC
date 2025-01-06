@@ -61,7 +61,7 @@ pyDeskREC is a screen recording utility with a graphical user interface built in
 
 If you want the unsubscribed version of PySimpleGUI, use this command: 
 
-     python -m pip install PySimpleGUI==4.60.5.0
+     python3 -m pip install PySimpleGUI==4.60.5.0
 
 Make sure FFmpeg is installed, for example, with
 
