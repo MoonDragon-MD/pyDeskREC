@@ -11,7 +11,7 @@ import subprocess
 import queue
 import configparser
 
-CONFIG_FILE = "RegistraSchermo.ini"
+CONFIG_FILE = "pyDeskREC.ini"
 
 def load_config():
     config = configparser.ConfigParser()
