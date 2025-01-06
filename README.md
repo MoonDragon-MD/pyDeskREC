@@ -85,7 +85,7 @@ Make sure FFmpeg is installed, for example, with
   Press “Start Recording” to start video capture.
 
 ### Screenshots:
-
+![alt text](https://github.com/MoonDragon-MD/pyDeskREC/blob/main/img/Screenshot-eng.jpg?raw=true)
 ![alt text](https://github.com/MoonDragon-MD/pyDeskREC/blob/main/img/Screenshot.jpg?raw=true)
 
 ### Notes:
