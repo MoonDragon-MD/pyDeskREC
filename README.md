@@ -95,3 +95,9 @@ Some features, such as the transparency of the area selection window, may not wo
 To record audio, make sure pulseaudio or another FFmpeg-compatible audio system is in use. (If so, modify the program to suit your own).
 
 The mkv format in case the program freezes or the pc closes prematurely allows you to see the video recorded up to that moment, the mp4 format does not, it must be stopped with the appropriate button.
+
+The time format is 24-hour
+
+### Known issues:
+
+If the end time is set, when it finishes recording it may give this error “RuntimeError: Calling Tcl from different apartment” but the file is still saved, I will fix it as soon as I can.
