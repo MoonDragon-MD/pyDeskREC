@@ -90,9 +90,8 @@ Make sure FFmpeg is installed, for example, with
 
 ### Notes:
 
+Some features, such as the transparency of the area selection window, may not work on all operating systems or desktop environments.
 
-  Some features, such as the transparency of the area selection window, may not work on all operating systems or desktop environments.
+To record audio, make sure pulseaudio or another FFmpeg-compatible audio system is in use. (If so, modify the program to suit your own).
 
-  To record audio, make sure pulseaudio or another FFmpeg-compatible audio system is in use. (If so, modify the program to suit your own).
-
-
+The mkv format in case the program freezes or the pc closes prematurely allows you to see the video recorded up to that moment, the mp4 format does not, it must be stopped with the appropriate button.
