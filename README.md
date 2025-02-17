@@ -77,7 +77,7 @@ Make sure FFmpeg is installed, for example, with
 
 ### Usage:
 
-Search your pyDeskREC menu and open it
+Search pyDeskREC on your distro menu and open it
 
 Alternatively:
 
