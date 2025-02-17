@@ -38,6 +38,13 @@ pyDeskREC is a screen recording utility with a graphical user interface built in
   Dynamic display selection for multi-monitor configurations.
 
 
+### Installation (V-1):
+
+     ./install_pyDeskREC.sh  (ENG)
+     ./install_PyDeskREC.sh  (ITA)
+
+
+You will be asked whether to install the dependencies, follow the steps and you will also have the launcher on the gnome menu
 
 ### Prerequisites:
 
@@ -54,7 +61,7 @@ pyDeskREC is a screen recording utility with a graphical user interface built in
 
 
 
-### Installation:
+### Manual Installation:
 
      pip install PySimpleGUI pyautogui opencv-python numpy
 
@@ -70,9 +77,14 @@ Make sure FFmpeg is installed, for example, with
 
 ### Usage:
 
+Search your pyDeskREC menu and open it
+
+Alternatively:
+
   Run 
 
-    python3 RegisterScreen.py 
+    python3 RegisterScreen.py (V-0.9.3)
+    python3 main.py           (V-1.0.0)
 
   to start the application.
 
@@ -91,6 +103,9 @@ eng:
 ita:
 ![alt text](https://github.com/MoonDragon-MD/pyDeskREC/blob/main/img/Screenshot.jpg?raw=true)
 
+installer (V-1.0.0):
+![alt text](https://github.com/MoonDragon-MD/pyDeskREC/blob/main/img/installer.jpg?raw=true)
+
 ### Notes:
 
 Some features, such as the transparency of the area selection window, may not work on all operating systems or desktop environments.
@@ -102,5 +117,9 @@ The mkv format in case the program freezes or the pc closes prematurely allows y
 The time format is 24-hour
 
 ### Known issues:
+
+No errors noticed in version 1.0.0
+
+Errors noted in version 0.9.3
 
 If the end time is set, when it finishes recording it may give this error “RuntimeError: Calling Tcl from different apartment” but the file is still saved, I will fix it as soon as I can.
