@@ -106,6 +106,9 @@ ita:
 installer (V-1.0.0):
 ![alt text](https://github.com/MoonDragon-MD/pyDeskREC/blob/main/img/installer.jpg?raw=true)
 
+Menu and settings (V-1.0.0):
+![alt text](https://github.com/MoonDragon-MD/pyDeskREC/blob/main/img/menu-e-impostazioni.jpg?raw=true)
+
 ### Notes:
 
 Some features, such as the transparency of the area selection window, may not work on all operating systems or desktop environments.
