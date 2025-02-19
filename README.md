@@ -88,7 +88,7 @@ Alternatively:
 
   to start the application.
 
-  Configure the recording options via the GUI.
+  Configure the recording options via the GUI. (You can use the “Copy * Command” buttons to copy to the terminal the command that lets you know the hardware peripherals)
 
   Use the “Select Area” button to choose the part of the screen to record. (Otherwise it will record full screen).
 
@@ -110,6 +110,8 @@ Menu and settings (V-1.0.0):
 ![alt text](https://github.com/MoonDragon-MD/pyDeskREC/blob/main/img/menu-e-impostazioni.jpg?raw=true)
 
 ### Notes:
+
+It doesn't work on Wayland.
 
 Some features, such as the transparency of the area selection window, may not work on all operating systems or desktop environments.
 
